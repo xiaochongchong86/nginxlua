@@ -1,0 +1,42 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+_M.bulk	bloomd_client.lua	/^function _M.bulk(self, ...)$/;"	f
+_M.cancel_pipeline	bloomd_client.lua	/^function _M.cancel_pipeline(self)$/;"	f
+_M.check	bloomd_client.lua	/^function _M.check(self, key, field)$/;"	f
+_M.commit_pipeline	bloomd_client.lua	/^function _M.commit_pipeline(self)$/;"	f
+_M.connect	bloomd_client.lua	/^function _M.connect(self, ...)$/;"	f
+_M.create	bloomd_client.lua	/^function _M.create(self, filtername)$/;"	f
+_M.drop	bloomd_client.lua	/^function _M.drop(self, key)$/;"	f
+_M.get_reused_times	bloomd_client.lua	/^function _M.get_reused_times(self)$/;"	f
+_M.init_pipeline	bloomd_client.lua	/^function _M.init_pipeline(self, n)$/;"	f
+_M.multi	bloomd_client.lua	/^function _M.multi(self, ...)$/;"	f
+_M.new	bloomd_client.lua	/^function _M.new(self)$/;"	f
+_M.set	bloomd_client.lua	/^function _M.set(self, key, field)$/;"	f
+_M.set_keepalive	bloomd_client.lua	/^function _M.set_keepalive(self, ...)$/;"	f
+_M.set_timeout	bloomd_client.lua	/^function _M.set_timeout(self, timeout)$/;"	f
+_do_cmd	bloomd_client.lua	/^local function _do_cmd(self, ...)$/;"	f
+_read_reply	bloomd_client.lua	/^local function _read_reply(self, sock)$/;"	f
+build_server	init.lua	/^local function build_server(server_addr)$/;"	f
+check_bloom	check_bloom.lua	/^local function check_bloom()$/;"	f
+check_bloom	checkv1.lua	/^local function check_bloom(uid, gid_arr)$/;"	f
+check_redis	check_redis.lua	/^local function check_redis()$/;"	f
+check_redis	checkv2.lua	/^local function check_redis(uid, gid_arr)$/;"	f
+check_rolling	logger.lua	/^local function check_rolling()$/;"	f
+close	bloomd_client.lua	/^local function close(self)$/;"	f
+determine_idc	init.lua	/^local function determine_idc()$/;"	f
+extract_req	utility.lua	/^function extract_req(post_data)$/;"	f
+get_log_file_name	logger.lua	/^local function get_log_file_name()$/;"	f
+get_server_from_gid	utility.lua	/^function get_server_from_gid(gid)$/;"	f
+hlog	logger.lua	/^function hlog(content)$/;"	f
+if not ok or type(new_tab) ~	bloomd_client.lua	/^if not ok or type(new_tab) ~= "function" then$/;"	f
+new_tab 	bloomd_client.lua	/^    new_tab = function (narr, nrec) return {} end$/;"	f
+set_bloom	set_bloom.lua	/^local function set_bloom()$/;"	f
+set_bloom	setv1.lua	/^local function set_bloom(uid, gid_arr)$/;"	f
+set_redis	set_redis.lua	/^local function set_redis()$/;"	f
+set_redis	setv2.lua	/^local function set_redis(uid, gid_arr)$/;"	f
+setmetatable(_M, {__index 	bloomd_client.lua	/^setmetatable(_M, {__index = function(self, cmd)$/;"	f
+split_addr	init.lua	/^local function split_addr(addr)$/;"	f
